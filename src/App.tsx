@@ -1,6 +1,6 @@
 import "./App.css";
 import { AudioClip } from "./types";
-import Drum from "./Users/francinco/Desktop/CODING PROJECTS/FCC Projects - Front End Libraries/drum-machine/src/Drum";
+import Drum from "./Drum";
 
 const audioClips: AudioClip[] = [
   {
